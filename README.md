@@ -13,33 +13,14 @@ _Para la ejecución de este programa es necesario dos Librerias, la libreria nat
 
 
 
-Para ejecutar el programa con Librerias desde CMD utilizar este comando desues de estar en la carpeta de las clases y haber corrido la maquina virtual de JAva en la terminal
+Para compilar el programa con Librerias desde CMD utilizar este comando desues de estar en la carpeta de las clases y haber corrido la maquina virtual de JAva en la terminal
 ```
-
+javac -cp "ruta de Libreria" *.java
 ```
-
-### Instalación 
-
-_Para In_
-
-_Dí cómo será ese paso_
-
+Para ejecutar el progrma 
 ```
-Da un ejemplo
+java -cp "ruta de Libreria" *.class
 ```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-## Ejecutando las pruebas 
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
 
 ## Construido con 
 
