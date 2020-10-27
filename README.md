@@ -2,15 +2,16 @@
 
 _Este proyecto consiste en un sencillo y básico Login para poder acceder a cualquier programa al usarlo como libreria y a la vez poder registrar un nuevo usuario._
 
-## Comenzando 
+## Introducción 
 
 _Este programa utiliza para el cifrado de las contraseñas el metodo AES, también conocido como Rijndael (pronunciado "Rain Doll" en inglés), es un esquema de cifrado por bloques que tiene un tamaño de bloque fijo de 128 bits y tamaños de llave de 128, 192 o 256 bits._
 
 
 ### Pre-requisitos 
 
-_Para la ejecución de este programa es necesario dos Librerias, la libreria nativa de Java "Absolute Layout.jar" y la libreria de "Commons codec-1.15" que se puede descargar en la siguiente página: _
-(https://commons.apache.org/proper/commons-codec/download_codec.cgi)
+_Para la ejecución de este programa es necesario dos Librerias, la libreria nativa de Java "Absolute Layout.jar" y la libreria de ["Commons codec-1.15" ](https://commons.apache.org/proper/commons-codec/download_codec.cgi)._
+
+
 
 Para ejecutar el programa con Librerias desde CMD utilizar este comando desues de estar en la carpeta de las clases y haber corrido la maquina virtual de JAva en la terminal
 ```
@@ -19,7 +20,7 @@ Para ejecutar el programa con Librerias desde CMD utilizar este comando desues d
 
 ### Instalación 
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_Para In_
 
 _Dí cómo será ese paso_
 
